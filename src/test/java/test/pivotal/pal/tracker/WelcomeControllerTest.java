@@ -1,6 +1,7 @@
 package test.pivotal.pal.tracker;
 
 import io.pivotal.pal.tracker.WelcomeController;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
